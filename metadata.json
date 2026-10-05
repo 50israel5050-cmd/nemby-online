@@ -1,0 +1,6 @@
+{
+  "name": "CinemaStream Desktop",
+  "description": "גרסת המחשב של CinemaStream - אפליקציית סטרימינג וקולנוע מתקדמת בעברית עם נגן מותאם למחשב, מקורות Stremio ומערכת הורדות",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
